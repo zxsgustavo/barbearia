@@ -3,9 +3,9 @@ body {
 }
 
 p {
-   text-align: center;
+     text-align: center;
 }
 
-   em strong {
-       color:blue;
+em strong {
+    color:blue;
 }
