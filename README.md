@@ -7,10 +7,10 @@
 
 Sobre a Barbearia Alura
 
-<p>Localizada no coração da cidade a<strong> Barbearia Alura</strog> traz para o mercado o que há de melhor para o seu cabelo e barba. Fundada em 2019, a Barbearia Alura já é destaque na cidade e conquista novos clientes a cada dia.<
-<nossa missão é: "Proporcionar auto-estima e qualidade de vida aos clientes".
+<p>Localizada no coracao da cidade a<strong> Barbearia Alura</strog> traz para o mercado o que ha de melhor para o seu cabelo e barba. Fundada em 2019, a Barbearia Alura ja e destaque na cidade e conquista novos clientes a cada dia.<
+<nossa missao e: "Proporcionar auto-estima e qualidade de vida aos clientes".
 
-Oferecemos profissionais experientes e antenados às mudanças no mundo da moda. O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.
+Oferecemos profissionais experientes e antenados às mudanças no mundo da moda. O atendimento possui padrao de excelencia e agilidade, garantindo qualidade e satisfacao dos nossos clientes.
 
 
 
